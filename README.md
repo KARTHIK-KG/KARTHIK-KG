@@ -1,16 +1,15 @@
 
-<h1 align="center">Konichiwa 👋 Welcome To My Profile !! ~</h1>
+<h1 align="center">Konichiwa 👋 Welcome To My Profile !!</h1>
 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/view/killua-zoldyck-anime-hello-salute-cute-boy-gif-19915148">
 </div>
 
 </br>
 </br>
 </br>
-<p>𝒮𝓊𝒷𝑒𝓉𝑒 𝓀𝑜𝓌𝒶𝓈𝒽𝒾𝓉𝑒 𝓂𝒾𝓈𝑒𝓇𝓊</p>
-<p><a href="https://www.youtube.com/watch?v=_WXNeFygGME">- 𝐼𝓀𝑒𝓃𝒶𝒾 𝐵𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒 (𝒲𝒶𝓁𝓀𝓊𝓇𝑒)</a><p>
+
   
 </div>
     <div align="center">
