@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/view/killua-zoldyck-anime-hello-salute-cute-boy-gif-19915148">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/killua-hellllooo.gif">
 </div>
 
 </br>
