@@ -10,18 +10,14 @@
 </br>
 </br>
 
-  
-</div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
+ 
 <div>
 <h2 align="center"> About Me 💬</h2>
   <div align="center">
 <img hight="200" width="300" src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/deku-intro.gif" align="right">
   </div>
 <li>
-<b>Name:</b>KARTHIK KG/li>
+<b>Name:</b> KARTHIK KG</li>
 <li>
 <b>Gender:</b> he/him/Male ♂️
 </li>
@@ -39,45 +35,50 @@ BE CSE - Artficial Intelligence @SIST
 </li>
 <br><br><br>
 </div>
-
-<br>
-# Languages & Tools 👨‍💻 🛠:
+</br>
+</br>
+<h1 align="center">Languages & Tools 👨‍💻 🛠</h1>
 </br>
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<p align="center">
+
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/python-icon.png" alt="python" width="120" hight="50">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/html-icon.png" alt="html" width="110" hight="50">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/css3-icon.png" alt="css" width="110" hight="50">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/bootstrap-icon.png" alt="bootstrap" width="160" hight="100">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/flutter-icon.png" alt="flutter" width="120" hight="50">
+</br>
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/android_studio-icon.png" alt="androidstudio" width="180" hight="50">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/unity-icon.png" alt="unity" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/icons/firefox-icon.png" alt="firefox" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="40">
 </p>
 </br>
-</br>
-</br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+
+<h2 align="center"> 📞 Contact ME</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/mooshi-mooshi-gif.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center">Here are some of my <br>
+social media, feel free to contact me there :)</p>
+<p align="center"><a href="https://www.linkedin.com/in/karthikkg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  </a><a href="https://twitter.com/FOX_KARTHIKKG" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://discord.me/525329844704378881" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.twitch.tv/karthikkg" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>  <a href="https://www.reddit.com/user/KARTHIKKG" target="_blank"><img width="100" heigh="50" src="https://aleen42.github.io/badges/src/reddit.svg"/></a></p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">Thank You :D !!!💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/tnx-deku.gif">
 </div>
 <hr>
 </div>
