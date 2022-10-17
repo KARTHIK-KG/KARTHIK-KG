@@ -22,7 +22,7 @@
 <b>Gender:</b> he/him/Male ♂️
 </li>
 <li>  
-I'm 20 years old. BE CSE - Artficial Intelligence @SIST
+I'm 20 years old
 </li>
 <li>
 BE CSE - Artficial Intelligence @SIST
