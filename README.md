@@ -18,7 +18,7 @@
 <div>
 <h2 align="center"> About Me 💬</h2>
   <div align="center">
-<img hight="300" width="300" src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/deku-intro.gif" align="right">
+<img hight="200" width="300" src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/deku-intro.gif" align="right">
   </div>
 <li>
 <b>Name:</b>KARTHIK KG/li>
