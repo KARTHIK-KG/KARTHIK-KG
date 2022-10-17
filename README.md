@@ -72,7 +72,7 @@ BE CSE - Artficial Intelligence @SIST
 <p align="center">Here are some of my <br>
 social media, feel free to contact me there :)</p>
 <p align="center"><a href="https://www.linkedin.com/in/karthikkg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  </a><a href="https://twitter.com/FOX_KARTHIKKG" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://discord.me/525329844704378881" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.twitch.tv/karthikkg" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>  <a href="https://www.reddit.com/user/KARTHIKKG" target="_blank"><img width="100" heigh="50" src="https://aleen42.github.io/badges/src/reddit.svg"/></a></p>
+<p align="center"><a href="https://www.twitch.tv/karthikkg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>  <a href="https://www.reddit.com/user/KARTHIKKG" target="_blank"><img width="100" heigh="50" src="https://aleen42.github.io/badges/src/reddit.svg"/></a></p>
 </div>
 <br>
 <div>
