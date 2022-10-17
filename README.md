@@ -21,24 +21,19 @@
 <img hight="300" width="300" src="https://github.com/KARTHIK-KG/KARTHIK-KG/blob/main/deku-intro.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
+<b>Name:</b>KARTHIK KG/li>
 <li>
-<b>Fursona:</b> Snow Fox
+ I'm 20 years old. BE CSE - Artficial Intelligence @SIST
+<b>Gender:</b> he/him/Male ♂️
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Anime, Manga, Games 🎮
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+#<b>portfolio</b> <link>
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Techincal Skills:</b> Python, UI/UX, Web Development
 </li>
 <br><br><br>
 </div>
