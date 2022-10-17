@@ -23,11 +23,17 @@
 <li>
 <b>Name:</b>KARTHIK KG/li>
 <li>
- I'm 20 years old. BE CSE - Artficial Intelligence @SIST
 <b>Gender:</b> he/him/Male ♂️
+</li>I'm 20 years old. BE CSE - Artficial Intelligence @SIST
+<li>  
+I'm 20 years old. BE CSE - Artficial Intelligence @SIST
+</li>
+<li>
+BE CSE - Artficial Intelligence @SIST
 </li>
 <li>
 <b>Loves:</b> Anime, Manga, Games 🎮
+</li>  
 <li>
 <b>Techincal Skills:</b> Python, UI/UX, Web Development
 </li>
