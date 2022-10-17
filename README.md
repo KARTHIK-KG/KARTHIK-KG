@@ -29,9 +29,9 @@
 <li>
 <b>Loves:</b> Anime, Manga, Games 🎮
 </li>
-<li>
-#<b>portfolio</b> <link>
-</li>
+//<li>
+//<b>portfolio</b> <link>
+//</li>
 <li>
 <b>Techincal Skills:</b> Python, UI/UX, Web Development
 </li>
