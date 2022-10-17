@@ -37,7 +37,7 @@ BE CSE - Artficial Intelligence @SIST
 </div>
 </br>
 </br>
-<h1 align="center">Languages & Tools 👨‍💻 🛠</h1>
+<h2 align="center">Languages & Tools 👨‍💻 🛠</h2>
 </br>
 
 <p align="center">
