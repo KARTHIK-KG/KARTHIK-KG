@@ -34,6 +34,8 @@ BE CSE - Artficial Intelligence @SIST
 <b>Techincal Skills:</b> Python, UI/UX, Web Development
 </li>
 <br><br><br>
+<p align=left><img src="https://komarev.com/ghpvc/?username=KARTHIK-KG&color=ff5656&style=flat-square"></img></p>
+<br><br><br>
 </div>
 </br>
 </br>
